@@ -1,6 +1,8 @@
 # maintainer-load-reducer
 
-> PR risk triage for open-source maintainers — real checklist, not empty "AI reviewed" stamps.
+> PR risk triage for maintainers — reviewer checklist, missing tests, and breaking-change flags.
+
+**Topics:** `open-source` · `code-review` · `github` · `maintainer` · `pull-requests` · `devtools` · `oss`
 
 ![Screenshot](docs/screenshot.png)
 
@@ -20,4 +22,8 @@ npm test
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
+
+## Author
+
+**Mehmet Turac** — [github.com/mturac](https://github.com/mturac)
